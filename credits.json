@@ -1,0 +1,8 @@
+{
+    "version": 1,
+    "sections": [
+      { "title": "Producer", "names": ["Toshi"] },
+      { "title": "Development", "names": ["ToppyMotion"] },
+      { "title": "Special Thanks", "names": ["MyFamily", "MyFriends"] }
+    ]
+  }
